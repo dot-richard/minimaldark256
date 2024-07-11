@@ -1,4 +1,4 @@
-# minimaldark257.vim
+# minimaldark256.vim
 
 My custom Vim dark theme for 256-color terminals, highlighting gray, red, and cyan accents.
 
