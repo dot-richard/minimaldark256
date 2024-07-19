@@ -12,7 +12,7 @@ endif
 
 set background=dark
 
-let colors_name="redmoon"
+let colors_name="minimaldark256"
 
 " {{{ Couleurs
 
