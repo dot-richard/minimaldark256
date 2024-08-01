@@ -1,5 +1,3 @@
-" redmoon.vim
-
 " Author:       Richard Kranich
 " Website:      github.com/dot-richard
 " Description:  Minimalist dark theme for 256-color terminals with a touch of red.
